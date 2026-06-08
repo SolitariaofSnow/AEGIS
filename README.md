@@ -1,4 +1,4 @@
-# AEGIS
+# [AEGIS](https://solitariaofsnow.github.io/AEGIS)
 A text based rpg party combat roguelite 
 
 
